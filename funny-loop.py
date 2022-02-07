@@ -1,8 +1,8 @@
-from PIL import Image, ImageDraw, ImageFont
 import os
 from os.path import expanduser
 import json
 import time
+
 install_directory = "Documents/GitHub/bad-apple-wallpaper/"
 user = "temmie"
 

@@ -1,4 +1,3 @@
-from PIL import Image, ImageDraw, ImageFont
 import os
 from os.path import expanduser
 import json
