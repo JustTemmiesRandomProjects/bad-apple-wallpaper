@@ -6,7 +6,7 @@ import time
 install_directory = "Documents/GitHub/bad-apple-wallpaper/"
 user = "temmie"
 
-for aaaa in range(0,6000):
+for aaaa in range(0,6900):
 	counter = 1
 	
 
