@@ -6,4 +6,4 @@ run it from your home directory with a python command
 in my example i use "python3 Documents/GitHub/bad-apple-wallpaper/wallpaperchanger.py"
 this is made like this so i can run the command on startup automatically
 
-note(s): this only works with gnome - i use pop os don't @ me, AND this is fairly unstable and might crash your syste
+note(s): this only works with gnome - i use pop os don't @ me, AND this is fairly unstable and might crash your system
